@@ -1,0 +1,14 @@
+C:\Users\Soma\Documents\C#2\IsmetlesNelkuliRandom\IsmetlesNelkuliRandom\bin\Debug\IsmetlesNelkuliRandom.exe.config
+C:\Users\Soma\Documents\C#2\IsmetlesNelkuliRandom\IsmetlesNelkuliRandom\bin\Debug\IsmetlesNelkuliRandom.exe
+C:\Users\Soma\Documents\C#2\IsmetlesNelkuliRandom\IsmetlesNelkuliRandom\bin\Debug\IsmetlesNelkuliRandom.pdb
+C:\Users\Soma\Documents\C#2\IsmetlesNelkuliRandom\IsmetlesNelkuliRandom\obj\Debug\IsmetlesNelkuliRandom.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\IsmetlesNelkuliRandom\IsmetlesNelkuliRandom\obj\Debug\IsmetlesNelkuliRandom.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\IsmetlesNelkuliRandom\IsmetlesNelkuliRandom\obj\Debug\IsmetlesNelkuliRandom.exe
+C:\Users\Soma\Documents\C#2\IsmetlesNelkuliRandom\IsmetlesNelkuliRandom\obj\Debug\IsmetlesNelkuliRandom.pdb
+C:\Users\Soma\Documents\C#2\Kvízjáték modenizálás\IsmetlesNelkuliRandom\bin\Debug\IsmetlesNelkuliRandom.exe.config
+C:\Users\Soma\Documents\C#2\Kvízjáték modenizálás\IsmetlesNelkuliRandom\bin\Debug\IsmetlesNelkuliRandom.exe
+C:\Users\Soma\Documents\C#2\Kvízjáték modenizálás\IsmetlesNelkuliRandom\bin\Debug\IsmetlesNelkuliRandom.pdb
+C:\Users\Soma\Documents\C#2\Kvízjáték modenizálás\IsmetlesNelkuliRandom\obj\Debug\IsmetlesNelkuliRandom.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Kvízjáték modenizálás\IsmetlesNelkuliRandom\obj\Debug\IsmetlesNelkuliRandom.exe
+C:\Users\Soma\Documents\C#2\Kvízjáték modenizálás\IsmetlesNelkuliRandom\obj\Debug\IsmetlesNelkuliRandom.pdb
+C:\Users\Soma\Documents\C#2\Kvízjáték modenizálás\IsmetlesNelkuliRandom\obj\Debug\IsmetlesNelkuliRandom.csprojAssemblyReference.cache

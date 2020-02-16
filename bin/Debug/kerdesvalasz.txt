@@ -1,0 +1,25 @@
+01;Hogy hívják azt a misztikus erőt, melynek egy világos és egy sötét oldala is van?;A. tömeg; B. gyorsítás; C. hatalom; D. végtelenség;C
+02;Milyen teremtmény Chewbacca ? ;A. vuki; B. waikiki; C. nagy lábú; D. evok;A
+03;Mi  R2D2 és C3PO? ;A. droidák; B. kiborgok; C. klónok; D. droidok;D
+04;Ki ismert a Darth Sidius név latt is? ;A. Szenátor Palpatine; B. Darth Vader; C. Mace Windu ; D. Jango Fett;A
+05;Mit állít Han Solo, mennyi időre lenne szüksége a Millenium Falcon-nak a "Kessel útvonalra"? ;A. 1 másodperc; B. 8 bogon; C. 12 parseck; D. Warp 2;C
+06;Ki nem volt Jedi? ;A. Obi-Wan Kenobi; B. Anakin Skywalker; C. Boba Fett; D. Qui-Gon Jinn;C
+07;Melyik város adminisztrátora és bárója volt Lando Calrissain? ;A. Felhőváros; B. Fellegvár; C. Bespin; D. Yavin 4;C
+08;Milyen kapcsolatban áll Padme Amidala Leila hercegnővel? ;A. az anyja; B. a nővére; C. a tanárja; D. a bébiszittere;A
+09;Melyik mikroszkopikus életforma áll kapcsolatban a hatalommal? ;A. midikloriánok; B. mini-Anakinszok; C. sötét baktériumok; D. az anyaggal;A
+10;Melyik bolygón élnek a Tantaunok? ;A. Hoth; B. Centax-1; C. Dagobah; D. Tatuin;D
+11;Hány évesen hunyt el Yoda? ;A. 500; B. 400; C. 1000; D. 900;D
+12;George Lucas miből fabrikálta meg R2-D2 nevét? ;A. Reel 2, Dialog Track 2; B. Robot 2, Deal Information 2; C. Root 2, D Drive 2; D. Radio 2, Duo Channel 2;D
+13;Mely hónap negyedik napját tarja a Star Wars közösség a Star Wars születésnapjának? ;A. Április; B. Május; C. Június; D. Július;A
+14;Milye kapcsolatban van Bobba Fett Jango Fettel? ;A. Apa fia; B. fia Apja; C. a klónja; D. semmilyen;B
+15;Milyen nyelven beszélnk egymással a Jawak? ;A. japánul; B. Busman nyelven; C. magyarul; D. halandzsa nyelven;B
+16;Hány tagja van a Jedik tancsának? ;A. 6; B. 9; C. 12; D. 15;C
+17;Kinek a fénykardját kapta meg Luke Skywalker Obi-Van Kenobi-tól? ;A. az apja; B. a nagybátyja; C. egy idegen rég elhunyt Jedi-ét; D. Ahsoka Tano;A
+18;Hogy nyere el Han Solo a Millenium Falcont? ;A. kockán; B. ruletten; C. pókeren; D. lóversenyen;C
+19;A Yavin hanyadik bolygója volt a lázadó szövetség bázisa? ;A. 1; B. 2; C. 5; D. 4;D
+20;Melyik filmben hal meg Yoda? ;A. Baljos árnyak; B. A Birodalom visszavág; C. A Jedi vissztér; D. Új remény;C
+21;Ki rendezte A Jedi visszatér című epizódot? ;A. Steven Spilberg; B.Irvin Kershner; C. George Lucas; D. Richard Marquand;D
+22;Milyen fajba tartozik Yoda mester? ;A. Selkath; B.Quarren; C. Gran; D. Nem ismert faj;D
+23;Mely kategóriában jelölték Oscar díjra a Star Wars Új reményt? ;A. A legjobb sci-fie; B. a legjobb mellékszereplő; C. A Legjobb film; D. A legjobb látvány;C
+24;Chewbacca karakterét milyen állat inspirálta? ;A. majom; B. medve; C. Kutya; D. pluss állat;C
+25;Mi volt Luke Skywalker neve eredetileg a forgatókönyvben? ;A. Luke Skywalker; B. Luke Starkiller; C. Luke Skyanger; D. Luke Starfighter;B
